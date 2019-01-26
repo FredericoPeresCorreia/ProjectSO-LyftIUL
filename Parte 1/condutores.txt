@@ -1,0 +1,7 @@
+88080:Maria Aguiar:EIA1:911555444:mguiar@gmail.com:carro:mercedes:88-TX-11:12:67:44
+88081:nuno rego:EIA1:911555444:mguiar@gmail.com:carro:mercedes:88-TX-11:4:11:12
+88082:antonio fixe:ETI2:911555444:mguiar@gmail.com:carro:mercedes:88-TX-11:11:59:30
+88083:Marcio mar:EIB2:911555444:mguiar@gmail.com:carro:mercedes:88-TX-11:4:59:4
+88084:Jdite Souse:EIB2:911555444:mguiar@gmail.com:carro:mercedes:88-TX-11:4:15:12
+88086:Fatima Lopes:EIB2:911555444:mguiar@gmail.com:carro:mercedes:88-TX-11:4:1:1
+88087:Joao Baiao:EIB2:911555444:mguiar@gmail.com:carro:mercedes:88-TX-11:4:18:85
